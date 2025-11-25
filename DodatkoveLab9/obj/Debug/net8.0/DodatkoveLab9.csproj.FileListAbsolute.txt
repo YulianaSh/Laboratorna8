@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Кпп\DodatkoveLab9\bin\Debug\net8.0\DodatkoveLab9.exe
+C:\Users\User\Desktop\Кпп\DodatkoveLab9\bin\Debug\net8.0\DodatkoveLab9.deps.json
+C:\Users\User\Desktop\Кпп\DodatkoveLab9\bin\Debug\net8.0\DodatkoveLab9.runtimeconfig.json
+C:\Users\User\Desktop\Кпп\DodatkoveLab9\bin\Debug\net8.0\DodatkoveLab9.dll
+C:\Users\User\Desktop\Кпп\DodatkoveLab9\bin\Debug\net8.0\DodatkoveLab9.pdb
+C:\Users\User\Desktop\Кпп\DodatkoveLab9\obj\Debug\net8.0\DodatkoveLab9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Кпп\DodatkoveLab9\obj\Debug\net8.0\DodatkoveLab9.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Кпп\DodatkoveLab9\obj\Debug\net8.0\DodatkoveLab9.AssemblyInfo.cs
+C:\Users\User\Desktop\Кпп\DodatkoveLab9\obj\Debug\net8.0\DodatkoveLab9.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Кпп\DodatkoveLab9\obj\Debug\net8.0\DodatkoveLab9.sourcelink.json
+C:\Users\User\Desktop\Кпп\DodatkoveLab9\obj\Debug\net8.0\DodatkoveLab9.dll
+C:\Users\User\Desktop\Кпп\DodatkoveLab9\obj\Debug\net8.0\refint\DodatkoveLab9.dll
+C:\Users\User\Desktop\Кпп\DodatkoveLab9\obj\Debug\net8.0\DodatkoveLab9.pdb
+C:\Users\User\Desktop\Кпп\DodatkoveLab9\obj\Debug\net8.0\DodatkoveLab9.genruntimeconfig.cache
+C:\Users\User\Desktop\Кпп\DodatkoveLab9\obj\Debug\net8.0\ref\DodatkoveLab9.dll
