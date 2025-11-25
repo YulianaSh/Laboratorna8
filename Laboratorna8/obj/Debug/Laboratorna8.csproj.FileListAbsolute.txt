@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\Кпп\Laboratorna8\bin\Debug\Laboratorna8.exe.config
+C:\Users\User\Desktop\Кпп\Laboratorna8\bin\Debug\Laboratorna8.exe
+C:\Users\User\Desktop\Кпп\Laboratorna8\bin\Debug\Laboratorna8.pdb
+C:\Users\User\Desktop\Кпп\Laboratorna8\obj\Debug\Laboratorna8.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Кпп\Laboratorna8\obj\Debug\Laboratorna8.Form1.resources
+C:\Users\User\Desktop\Кпп\Laboratorna8\obj\Debug\Laboratorna8.Properties.Resources.resources
+C:\Users\User\Desktop\Кпп\Laboratorna8\obj\Debug\Laboratorna8.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Кпп\Laboratorna8\obj\Debug\Laboratorna8.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Кпп\Laboratorna8\obj\Debug\Laboratorna8.exe
+C:\Users\User\Desktop\Кпп\Laboratorna8\obj\Debug\Laboratorna8.pdb
+C:\Users\User\Desktop\Кпп\Laboratorna8\obj\Debug\Laboratorna8.exe.config

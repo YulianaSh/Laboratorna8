@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\Кпп\DodatkoveLab8.2\bin\Debug\DodatkoveLab8.2.exe.config
+C:\Users\User\Desktop\Кпп\DodatkoveLab8.2\bin\Debug\DodatkoveLab8.2.exe
+C:\Users\User\Desktop\Кпп\DodatkoveLab8.2\bin\Debug\DodatkoveLab8.2.pdb
+C:\Users\User\Desktop\Кпп\DodatkoveLab8.2\obj\Debug\DodatkoveLab8.2.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Кпп\DodatkoveLab8.2\obj\Debug\DodatkoveLab8._2.Form1.resources
+C:\Users\User\Desktop\Кпп\DodatkoveLab8.2\obj\Debug\DodatkoveLab8._2.Properties.Resources.resources
+C:\Users\User\Desktop\Кпп\DodatkoveLab8.2\obj\Debug\DodatkoveLab8.2.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Кпп\DodatkoveLab8.2\obj\Debug\DodatkoveLab8.2.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Кпп\DodatkoveLab8.2\obj\Debug\DodatkoveLab8.2.exe
+C:\Users\User\Desktop\Кпп\DodatkoveLab8.2\obj\Debug\DodatkoveLab8.2.pdb
+C:\Users\User\Desktop\Кпп\DodatkoveLab8.2\obj\Debug\DodatkoveLab8.2.exe.config

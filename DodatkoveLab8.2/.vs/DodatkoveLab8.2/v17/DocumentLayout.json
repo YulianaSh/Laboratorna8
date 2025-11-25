@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\\u041A\u043F\u043F\\DodatkoveLab8.2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C4205689-D227-4853-8157-F41BD3E201FA}|DodatkoveLab8.2.csproj|c:\\users\\user\\desktop\\\u043A\u043F\u043F\\dodatkovelab8.2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C4205689-D227-4853-8157-F41BD3E201FA}|DodatkoveLab8.2.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4205689-D227-4853-8157-F41BD3E201FA}|DodatkoveLab8.2.csproj|c:\\users\\user\\desktop\\\u043A\u043F\u043F\\dodatkovelab8.2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4205689-D227-4853-8157-F41BD3E201FA}|DodatkoveLab8.2.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u041A\u043F\u043F\\DodatkoveLab8.2\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u041A\u043F\u043F\\DodatkoveLab8.2\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAwwDQAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T02:36:24.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u041A\u043F\u043F\\DodatkoveLab8.2\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u041A\u043F\u043F\\DodatkoveLab8.2\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T02:32:45.813Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
